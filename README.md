@@ -24,7 +24,7 @@ Raw data was collected between 2014 and 2015, which contained data relative to t
 House Price is pur primary feature and we are trying to find features that have significant correlation with the house price.
 
 
-![image2](./images/Kings2.png)
+![image2](./images/Kings2.jpg)
 
 
 ## Methods
