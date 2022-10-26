@@ -2,7 +2,6 @@
 ![image1](./images/Kings1.jpg)
 
 
-
 # Kings_County_Housing_Analysis
 
 **Authors**: Ziyuan Wang, Anita Camlic, Samuel Robins
@@ -29,20 +28,20 @@ House Price is pur primary feature and we are trying to find features that have 
 
 ## Methods
 
-We did linear regression analysis and trying to find the corralation between price and features we believed that would have strong correlation with our
+We did linear regression analysis and trying to find the corralation between price and features we believed that would have strong correlation with our. Both simple linear regression modela and a representative multi-linear regression model was applied.
 
 ## Results
 ![graph1](./images/Average_Rating_Across_Genres.png)
 
-As shown above, Documentary, Animation, Family are the highest rated genre's in IMDB's database. Note that we took the mean rating per genre because there were no clear outliers that would drastically skew the data.
+
 
 ![graph2](./images/TOP3_Directors_per_Recommended_Genres.png)
 
-The graph above shows the top directors in each recommended genre. For Family genre, it is interesting to note that there is a large gap in ratings between the first rank director and the other two. In this case, we will only recommend Bill Condon for the Family genre.
+
 
 ![graph3](./images/Counts_of_popular_movies_runtimes.png)
 
-As shown above, the most frequent length of a popular movie falls between 105 and 125 minutes. We decided to bin our movies in 20 minute increments to give the movie studio a sizeable range to work with.
+
 
 ## Conclusions
 
