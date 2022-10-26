@@ -1,5 +1,5 @@
 
-![image1](./images/istockphoto-1191001701-612x612.jpg)
+![image1](./images/kinngs1.jpg)
 
 
 
@@ -9,33 +9,27 @@
 
 ## Overview
 
-We have benn tasked to create a business plan for residential investors 
-We have been tasked with providing the head of "Microsoft Movie Studios" three actionable insights that they can use to decide what kinds of films to make. To make these reccommendations, we must first gather movie data from reputable sources, clean the data properly, and analyze and vizualize our findings simply and effectively.
+We have benn tasked to create a business plan for residential investors. We will provided them three reliable recommendations that they could decide what type of house to be invested. To make these reccommendations, we must gather kings county house sale data, get rid of outliers properly, and analyze our results properly.
+
 
 ## Business Problem
 
-Microsoft Movie Studios is a relatively new division that is looking to compete with the best movie makers in the business. To do this, they will first need to have a better understanding of their competitors successes and failures, the trends related to the kinds of movies that are successful, the types of movies that have high production costs and gross profits, etc. In this analysis, we hope to provide a clearer picture of the industry and target an area of focus for Microsoft Movie Studios to take advantage of.
 
 
 
 ## Data
 
-To analyze the movie industry as a whole, we took data from the following sources:
+King's County House Sales Dataset with 21 columns is used in this Analysis. 
+Raw data was collected between 2014 and 2015, which contained data relative to the task at hand.
+House Price is pur primary feature and we are trying to find features that have significant correlation with the house price.
 
-* Box Office Mojo
-* Rotten Tomatoes
-* The Movie Database (TMDB)
-* The Numbers
-* Internet Movie Database (IMDB)
 
-These datasets come from reputable sources in the movie industry and include insightful data points like movie ratings, genres, production budgets, gross profits, etc.
-
-![image2](./images/most-popular-movie-genres.png)
+![image2](./images/kings2.png)
 
 
 ## Methods
 
-We merged some of the datasets and filtered out some "bad" data, for example empty content in genre column or some zero ratings. After we got rid of those, we could start the analysis of our data through different aspects.
+We did linear regression analysis and trying to find the corralation between price and features we believed would have 
 
 ## Results
 ![graph1](./images/Average_Rating_Across_Genres.png)
