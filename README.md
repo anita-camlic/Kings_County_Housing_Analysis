@@ -9,6 +9,7 @@
 
 ## Overview
 
+We have benn tasked to create a business plan for residential investors 
 We have been tasked with providing the head of "Microsoft Movie Studios" three actionable insights that they can use to decide what kinds of films to make. To make these reccommendations, we must first gather movie data from reputable sources, clean the data properly, and analyze and vizualize our findings simply and effectively.
 
 ## Business Problem
