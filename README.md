@@ -44,11 +44,7 @@ We did linear regression analysis and trying to find the corralation between pri
 
 ## Conclusions
 
-This analysis leads to three recommendations for Microsoft Movie Studios:
-
-* Create a film in either Animation, Family, or Documentary genre
-* Choose a top rated director from one of the three genre's
-* Keep the length of your movie(s) between 105 and 125 minutes long
+We recommend that our clients purchase low grade/condition houses, renovate them with features associated with high price for home, and finally sell them for an increased profit. 
 
 
 ## For More Information
