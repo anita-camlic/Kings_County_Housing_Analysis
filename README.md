@@ -28,7 +28,7 @@ House Price is pur primary feature and we are trying to find features that have 
 
 ## Methods
 
-We did linear regression analysis and trying to find the corralation between price and features we believed that would have strong correlation with our. Both simple linear regression modela and a representative multi-linear regression model was applied.
+We did linear regression analysis and trying to find the corralation between price and features we believed that would have strong correlation with our endogenous (dependent) variable. Both simple linear regression modela and a representative multi-linear regression model was applied.
 
 ## Results
 ![graph1](./images/Average_Rating_Across_Genres.png)
