@@ -13,14 +13,13 @@ We have benn tasked to create a business plan for residential investors. We will
 
 ## Business Problem
 
-
+For this project, we want to set our stakeholders as short-term buyer who want to make maximum profit for both buying, renovating, and selling house. House Price is pur primary feature and we are trying to find features that have significant correlation with the house price then make the best profit.
 
 
 ## Data
 
 King's County House Sales Dataset with 21 columns is used in this Analysis. 
 Raw data was collected between 2014 and 2015, which contained data relative to the task at hand.
-House Price is pur primary feature and we are trying to find features that have significant correlation with the house price.
 
 
 ![image2](./images/Kings2.jpg)
@@ -51,13 +50,6 @@ This analysis leads to three recommendations for Microsoft Movie Studios:
 * Choose a top rated director from one of the three genre's
 * Keep the length of your movie(s) between 105 and 125 minutes long
 
-## Next Steps
-Given more time and money, we would be able to do the following:
-
-Run a regressional analysis to evaluate what kinds of factors play a large part in the success of a film
-* Examples: Impact of advertisement spending, % increase in profits from oscar nominations, etc.
-
-Find more accurate relationships between ratings, budgets, and profits
 
 ## For More Information
 
