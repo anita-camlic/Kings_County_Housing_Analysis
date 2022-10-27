@@ -8,7 +8,7 @@
 
 ## Overview
 
-We have benn tasked to create a business plan for residential investors. We will provided them three reliable recommendations that they could decide what type of house to be invested. To make these reccommendations, we must gather kings county house sale data, get rid of outliers properly, and efficeibtly analyze our results.
+We have benn tasked to create a business plan for residential investors. We will provided them three reliable recommendations that they could decide what type of house to be invested. To make these recommendations, we must gather kings county house sale data, get rid of outliers properly, and efficeibtly analyze our results.
 
 
 ## Business Problem
