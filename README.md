@@ -30,15 +30,15 @@ Raw data was collected between 2014 and 2015, which contained data relative to t
 We did linear regression analysis and trying to find the corralation between price and features we believed that would have strong correlation with our endogenous (dependent) variable. Both simple linear regression modela and a representative multi-linear regression model was applied.
 
 ## Results
-![graph1](./graphs/house_price_vs_house_living_area.png)
+![graph1](./images/Result1.jpg)
 
 
 
-![graph2](./graphs/avg_house_price_per_grade.png)
+![graph2](./images/Result2.jpg)
 
 
 
-![graph3](./graphs/avg_house_price_per_condition.png)
+![graph3](./images/Result3.png)
 
 
 
