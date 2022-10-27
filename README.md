@@ -57,8 +57,9 @@ For any additional questions, please contact **Ziyuan Wang & zywang1994@gmail.co
 
 ```
 ├── README.md                                         <- The top-level README for reviewers of this project
-├── final_project2.ipynb                              <- Narrative documentation of analysis in Jupyter notebook
+├── King_County_Housing_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
 ├── Kings_County_Housing_Analysis_Presentation.pdf    <- PDF version of project presentation
 └── images                                            <- images folder used for project
+└── graphs                                            <- graphs folder used for project
 └── kc_house_data.csv                                 <- data used for this project
 ```
