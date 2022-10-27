@@ -2,7 +2,7 @@
 ![image1](./images/Kings1.jpg)
 
 
-# Kings_County_Housing_Analysis
+# King_County_Housing_Analysis
 
 **Authors**: Ziyuan Wang, Anita Camlic, Samuel Robins
 
