@@ -32,15 +32,16 @@ We did linear regression analysis and trying to find the corralation between pri
 ## Results
 ![graph1](./images/Result1.jpg)
 
+Clear linear relationship between Price and Living area.
 
 
 ![graph2](./images/Result2.jpg)
 
-
+Average grade is our baseline grade. Higher grade is associated with higher sale price. 
 
 ![graph3](./images/Result3.png)
 
-
+Average condition is our baseline grade. Higher condition is associated with higher sale price.
 
 ## Conclusions
 
