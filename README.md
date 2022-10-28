@@ -30,17 +30,18 @@ Raw data was collected between 2014 and 2015, which contained data relative to t
 We did linear regression analysis and trying to find the corralation between price and features we believed that would have strong correlation with our endogenous (dependent) variable. Both simple linear regression modela and a representative multi-linear regression model was applied.
 
 ## Results
-![graph1](./images/Average_Rating_Across_Genres.png)
+![graph1](./images/Result1.jpg)
+
+Clear linear relationship between Price and Living area.
 
 
+![graph2](./images/Result2.jpg)
 
-![graph2](./images/TOP3_Directors_per_Recommended_Genres.png)
+Average grade is our baseline grade. Higher grade is associated with higher sale price. 
 
+![graph3](./images/Result3.png)
 
-
-![graph3](./images/Counts_of_popular_movies_runtimes.png)
-
-
+Average condition is our baseline grade. Higher condition is associated with higher sale price.
 
 ## Conclusions
 
