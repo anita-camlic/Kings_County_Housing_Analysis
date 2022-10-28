@@ -50,7 +50,7 @@ We recommend that our clients purchase low grade/condition houses, renovate them
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./final_project2.ipynb) or our [presentation](./Kings_County_Housing_Analysis_Presentation_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./King_County_Housing_Analysis.ipynb) or our [presentation](./King_County_Housing_Analysis_Presentation_Presentation.pdf).
 
 For any additional questions, please contact **Ziyuan Wang & zywang1994@gmail.com, Anita Camlic & anitacamlic@gmail.com, Samuel Robins & sammyrobins305@gmail.com**
 
@@ -59,7 +59,7 @@ For any additional questions, please contact **Ziyuan Wang & zywang1994@gmail.co
 ```
 ├── README.md                                         <- The top-level README for reviewers of this project
 ├── King_County_Housing_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-├── Kings_County_Housing_Analysis_Presentation.pdf    <- PDF version of project presentation
+├── King_County_Housing_Analysis_Presentation.pdf    <- PDF version of project presentation
 └── images                                            <- images folder used for project
 └── graphs                                            <- graphs folder used for project
 └── kc_house_data.csv                                 <- data used for this project
